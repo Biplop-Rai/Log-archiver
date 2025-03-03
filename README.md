@@ -19,3 +19,10 @@ This is a simple command-line tool for archiving logs. It allows you to compress
    ```bash
    git clone https://github.com/Biplop-Rai/log-archiver.git
 
+## Usage
+1,To run the tool and archive logs, use the following command:
+- python log_archiver.py <log-directory>
+Example Output
+-Logs have been compressed into: archives/logs_archive_20250303_183148.tar.gz
+
+   
