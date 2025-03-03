@@ -27,4 +27,5 @@ This is a simple command-line tool for archiving logs. It allows you to compress
 -Logs have been compressed into: archives/logs_archive_20250303_183148.tar.gz
 
    
-https://roadmap.sh/projects/log-archive-tool
+## Project URL
+-https://roadmap.sh/projects/log-archive-tool
