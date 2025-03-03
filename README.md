@@ -22,7 +22,8 @@ This is a simple command-line tool for archiving logs. It allows you to compress
 ## Usage
 1,To run the tool and archive logs, use the following command:
 - python log_archiver.py <log-directory>
-Example Output
+
+##Example Output
 -Logs have been compressed into: archives/logs_archive_20250303_183148.tar.gz
 
    
