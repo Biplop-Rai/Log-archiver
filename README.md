@@ -1,9 +1,21 @@
-# Log Archiver
+# Log Archiver Tool
 
-This tool compresses logs from a specified directory and stores them in a `.tar.gz` file in the `archives` directory. It logs the timestamp of each archive creation to `archive_log.txt`.
+This is a simple command-line tool for archiving logs. It allows you to compress log files in a directory into a `.tar.gz` archive and store the archive in a new directory. This helps in maintaining a clean system by compressing old logs for future reference.
 
-## Usage
+## Features
 
-To use this tool, run the following command:
+- Accepts a log directory as an argument.
+- Compresses logs in the directory into a `.tar.gz` file.
+- Stores the compressed logs in an "archived_logs" directory.
+- Logs the timestamp of the archive creation to a file (`archive_log.txt`).
 
+## Requirements
+
+- Python 3.x
+
+## Installation
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/Biplop-Rai/log-archiver.git
 
